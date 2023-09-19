@@ -3,7 +3,7 @@
 ![License Badge](https://img.shields.io/badge/license-MIT-green)
 
 
-The following repo is the back end mapping for an e-commerce website that uses mysql, express, and sequelize. 
+The following repo is the back end mapping for an e-commerce website that uses mysql, express, and sequelize. You can find the code for this challenge at https://github.com/Neta2393/Backend-Mapping-CH13
 
 ## Table of Contents:
 
@@ -62,4 +62,29 @@ Seeded the data and opened insomnia to view the RESTFUL API
 
 
 ## Walkthrough
+[ORM-ECommerce.webm](https://github.com/Neta2393/Backend-Mapping-CH13/assets/128006949/d43045d0-8397-4ed9-9eb4-da6179aff6ea)
+
+## Challenges
+
+The biggest challenge was revisiting Insomnia and having to restart due to accidentally cloning the Develop folder. 
+
+## Sources
+
+Challenge 13 Starter Code
+
+https://docs.insomnia.rest/insomnia/environment-variables   (Read up on docs on Insomnia to help because I am rusty on Insomnia)
+
+https://www.techonthenet.com/sql_server/foreign_keys/drop.php  (When recreating the code I ran into a foreign Key error this webpage helped me to fix that error)
+
+
+## Contribute
+
+To contribute please clone and reach out at https://github.com/Neta2393/Backend-Mapping-CH13
+
+## Github
+
+Benethea Hardin https://github.com/Neta2393
+
+
+
 
